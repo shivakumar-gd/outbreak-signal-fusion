@@ -1,0 +1,6 @@
+{
+  "name": "Outbreak Signal Fusion Dashboard",
+  "description": "Multi-source infectious disease early-warning signal fusion dashboard for public health monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
